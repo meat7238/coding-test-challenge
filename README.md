@@ -7,19 +7,22 @@
 <link rel="dns-prefetch" href="https://github.githubassets.com">
 
 
-## 알고리즘 분류
+## 알고리즘 분류 
 
 ### 1순위 
 
 dfs
-  - [ATM_실버3](https://github.com/meat7238/coding-test-challenge/blob/main/%EB%B0%B1%EC%A4%80/%EC%8B%A4%EB%B2%84/x1124_ATM_11399_v.java)
+ - [문제위치<-](https://www.acmicpc.net/problem/2606)[바이러스_실버3](https://github.com/meat7238/coding-test-challenge/blob/main/%EB%B0%B1%EC%A4%80/%EC%8B%A4%EB%B2%84/x1007_%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4_2606_v.java)
 
 백트래킹
-  -
+ - 
+
 bfs
   -
+
 투포인터
   -
+
 누적합
   -
 에라토스테네스의체
@@ -57,6 +60,7 @@ LIS
 DP
 
 그리디
+  - [문제위치<-](https://www.acmicpc.net/problem/11399)[ATM_실버4](https://github.com/meat7238/coding-test-challenge/blob/main/%EB%B0%B1%EC%A4%80/%EC%8B%A4%EB%B2%84/x1124_ATM_11399_v.java)
 
 세그먼트트리
 
