@@ -15,34 +15,34 @@ array의 2번째부터 5번째까지 자르면 [5, 2, 6, 3]입니다.
 
 
  */
-public class x0917_lv1_k번째수 {
-public static void main(String[] args) {
-	int[][] commands = {{2,5,3},{4,4,1},{1,7,3}};
-	int[] arr = {1,5,2,6,3,7,4};
-	Solution s = new Solution();
-	System.out.println( Arrays.toString(s.solution(arr, commands)));
-}
-}
-class Solution {
-    public int[] solution(int[] array, int[][] commands) {
-    	int i,j,k;
-    	int[] answer = new int[commands.length];
-    	for(int l=0; l<commands.length;l++) {
-    		i=commands[l][0];
-    		j=commands[l][1];
-    		k=commands[l][2];
-    		int m=0;
-    		int[] arr = new int[j-i+1];
-    		for(int n=i-1;n<j;n++) {
-    			arr[m]=array[n];
-    			m++;
-    		}
-    		Arrays.sort(arr);
-    		answer[l]=arr[k-1];
-    	}
-        return answer;
-    }
-}
+//public class x0917_lv1_k번째수 {
+//public static void main(String[] args) {
+//	int[][] commands = {{2,5,3},{4,4,1},{1,7,3}};
+//	int[] arr = {1,5,2,6,3,7,4};
+//	Solution s = new Solution();
+//	System.out.println( Arrays.toString(s.solution(arr, commands)));
+//}
+//}
+//class Solution {
+//    public int[] solution(int[] array, int[][] commands) {
+//    	int i,j,k;
+//    	int[] answer = new int[commands.length];
+//    	for(int l=0; l<commands.length;l++) {
+//    		i=commands[l][0];
+//    		j=commands[l][1];
+//    		k=commands[l][2];
+//    		int m=0;
+//    		int[] arr = new int[j-i+1];
+//    		for(int n=i-1;n<j;n++) {
+//    			arr[m]=array[n];
+//    			m++;
+//    		}
+//    		Arrays.sort(arr);
+//    		answer[l]=arr[k-1];
+//    	}
+//        return answer;
+//    }
+//}
 
 //Arrays.copyOfRange 활용
 //import java.util.Arrays;

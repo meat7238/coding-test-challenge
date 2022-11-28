@@ -3,8 +3,6 @@ package 백준.실버;
 import java.util.LinkedList;
 import java.util.Stack;
 
-import 실버.G.Node;
-
 class Graph {
 	
 	//이너클래스로 노드를 정의
