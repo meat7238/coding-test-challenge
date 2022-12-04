@@ -9,6 +9,7 @@
 
 ## 알고리즘 분류 
 
+
 ### 1순위 
 
 dfs
@@ -30,12 +31,15 @@ bfs
 이분탐색
   -
 구현 및 시뮬레이션 문제
-  -
+  - 별찍기10[문제링크](https://www.acmicpc.net/problem/2447)/[내풀이]()
+
 유클리드호제법
   - 최소공배수_브1[문제링크](https://www.acmicpc.net/problem/1934)/[내풀이](https://github.com/meat7238/coding-test-challenge/blob/main/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88/x1129_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98_1934.java)
+
 큐, 스택, 힙, 디큐, 해시를 이용한 문제풀이
   - 대칭 차집합 [문제링크](https://www.acmicpc.net/problem/1269) / [내풀이](https://github.com/meat7238/coding-test-challenge/blob/main/%EB%B0%B1%EC%A4%80/%EC%8B%A4%EB%B2%84/x1130_%EB%8C%80%EC%B9%AD%EC%B0%A8%EC%A7%91%ED%95%A9_1269.java) 
 
+---
 
 ### 2순위
 다익스트라
@@ -48,6 +52,7 @@ LCS
 LIS
 진법변환
 
+---
 
 ### 3순위
 트라이
