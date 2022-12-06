@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 
 public class x1204_문자열계산하기 {
     public static void main(String[] args) {
-        String my_string = "12 12 12";
+        String my_string = "12 +12 -12";
 
 //        List<String> list = Arrays.stream(my_string.split(" ")).collect(Collectors.toList());
 //        int answer = Integer.parseInt(list.get(0));
