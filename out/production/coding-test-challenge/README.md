@@ -23,6 +23,7 @@ bfs
 
 투포인터
   - 두수의합 [문제링크](https://www.acmicpc.net/problem/3273)/[내풀이]()
+  - 숫자카드1 [문제링크](https://www.acmicpc.net/problem/10815)/[내풀이]()
 
 누적합
   -

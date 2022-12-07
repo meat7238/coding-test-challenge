@@ -29,7 +29,8 @@ bfs
 에라토스테네스의체
   -
 이분탐색
-  -
+  - 숫자카드1 [문제링크](https://www.acmicpc.net/problem/10815)/[내풀이]()
+
 **`구현 및 시뮬레이션 문제`**
   - 별찍기10[문제링크](https://www.acmicpc.net/problem/2447)/[내풀이]()
 
@@ -45,24 +46,35 @@ bfs
 다익스트라
   -
 플로이드와샬
+  -
 유니온파인드
+  -
 크루스칼
+  -
 프림
+  -
 LCS
+  -
 LIS
+  -
 진법변환
+  -
 
 ---
 
 ### 3순위
 트라이
-라빈카프, KMP, 보이어-무어 
+  -
+라빈카프, KMP, 보이어-무어
+  -
 위상정렬
+  -
 
 ---
 
 ### 기타
-비트마스킹
+**`비트마스킹`**
+  -
 
 **`DP`**
   - 피보나치수2_브5[문제링크](https://www.acmicpc.net/problem/2748)/[내풀이](https://github.com/meat7238/coding-test-challenge/blob/main/%EB%B0%B1%EC%A4%80/%EB%B8%8C%EB%A1%A0%EC%A6%88/x1128_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%982_2748.java)
