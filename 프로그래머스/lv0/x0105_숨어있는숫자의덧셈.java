@@ -11,7 +11,7 @@ package 프로그래머스.lv0;
 //            answer += Integer.parseInt(num);
 //        }
 //        System.out.println(answer);
-//    }
+//    }: {
 //}
 public class x0105_숨어있는숫자의덧셈 {
     public static void main(String[] args) {
